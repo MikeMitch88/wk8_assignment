@@ -17,5 +17,5 @@ This is a relational database schema for a Library Management System. It tracks 
 
 ## Entity Relationship Diagram (ERD)
 
-![Library ERD](/library.png)
+![Library ERD](./library.png)
 
